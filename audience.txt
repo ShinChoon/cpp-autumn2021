@@ -1,3 +1,14 @@
+<<<<<<< HEAD
 sdvszdfv
 dvsdv<dsvdfv<sd
 
+=======
+<zxcv
+
+while 
+
+
+========
+
+This is course
+>>>>>>> bugfix/signup-form
