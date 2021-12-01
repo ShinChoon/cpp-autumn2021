@@ -1,9 +1,1 @@
-<<<<<<< HEAD
 ocean
-Sunny day
-river
-beautiful weather
-=======
-ehllp
->>>>>>> bugfix/photo-upload
-hello
