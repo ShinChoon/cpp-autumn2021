@@ -1,2 +1,4 @@
 ocean
 Sunny day
+river
+beautiful weather
