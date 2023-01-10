@@ -3,6 +3,7 @@
 
 #include <string>
 #include <vector>
+#include <iostream>
 #include "book.hpp"
 
 typedef std::vector<Book> Books;
